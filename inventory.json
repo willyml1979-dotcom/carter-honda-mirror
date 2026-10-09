@@ -1,7 +1,7 @@
 {
   "dealership": "Carter Honda",
-  "generated_at": "2026-10-08T14:34:58",
-  "vehicle_count": 1,
+  "generated_at": "2026-10-08T19:06:50",
+  "vehicle_count": 3,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -12,8 +12,34 @@
       "url": "https://willyml1979-dotcom.github.io/carter-honda-mirror/used/71508dd6002d.html",
       "source_url": "https://www.carterhonda.com/view/used-2025-honda-civic-sedan-hybrid-28954/",
       "dealer_url": "https://www.carterhonda.com/view/used-2025-honda-civic-sedan-hybrid-28954/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T16:47:42",
-      "odometer_km": 39512,
+      "last_verified": "2026-10-08T19:06:46",
+      "odometer_km": 39519,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Used2025 HondaCR-V Hybrid",
+      "vin": "2HKRS6H74SH215702",
+      "stock": "2HT2925",
+      "url": "https://willyml1979-dotcom.github.io/carter-honda-mirror/used/9569cf2add99.html",
+      "source_url": "https://www.carterhonda.com/view/used-2025-honda-cr-v-hybrid-29030/",
+      "dealer_url": "https://www.carterhonda.com/view/used-2025-honda-cr-v-hybrid-29030/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T19:06:29",
+      "odometer_km": 44181,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Used2025 HondaCR-V Hybrid",
+      "vin": "2HKRS6H91SH222074",
+      "stock": "2HT6434",
+      "url": "https://willyml1979-dotcom.github.io/carter-honda-mirror/used/28ac3e8561e8.html",
+      "source_url": "https://www.carterhonda.com/view/used-2025-honda-cr-v-hybrid-29940/",
+      "dealer_url": "https://www.carterhonda.com/view/used-2025-honda-cr-v-hybrid-29940/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T19:06:38",
+      "odometer_km": 23174,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
