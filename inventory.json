@@ -1,10 +1,22 @@
 {
   "dealership": "Carter Honda",
-  "generated_at": "2026-11-16T15:31:28",
-  "vehicle_count": 24,
+  "generated_at": "2026-11-17T17:23:04",
+  "vehicle_count": 29,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "Used2023 HondaCivic Sedan",
+      "vin": "2HGFE2F2XPH106611",
+      "url": "https://willyml1979-dotcom.github.io/carter-honda-mirror/used/d1cb299c127d.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2023 HondaRidgeline",
+      "vin": "5FPYK3F77PB500114",
+      "url": "https://willyml1979-dotcom.github.io/carter-honda-mirror/used/264db05a2398.html",
+      "condition": "used"
+    },
     {
       "name": "Used2023 NissanLeaf",
       "vin": "1N4CZ1CV3PC559413",
@@ -148,6 +160,24 @@
       "vin": "2HGFE4F80TH002476",
       "url": "https://willyml1979-dotcom.github.io/carter-honda-mirror/used/7fa008059c81.html",
       "condition": "used"
+    },
+    {
+      "name": "New2027 HondaCivic Sedan",
+      "vin": "2HGFE2F27VH102030",
+      "url": "https://willyml1979-dotcom.github.io/carter-honda-mirror/new/1e0a34998585.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027 HondaCivic Sedan Hybrid",
+      "vin": "2HGFE4F89VH000258",
+      "url": "https://willyml1979-dotcom.github.io/carter-honda-mirror/new/28782f7b63c6.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027 HondaCR-V Hybrid",
+      "vin": "2HKRS6H75VH201327",
+      "url": "https://willyml1979-dotcom.github.io/carter-honda-mirror/new/2c8dd804048c.html",
+      "condition": "new"
     }
   ]
 }
